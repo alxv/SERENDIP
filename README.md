@@ -9,6 +9,11 @@ A novel sequential rule mining algorithm is proposed designed to address the cha
 
 ## Shiny App (R)
 https://github.com/alxv/SERENDIP/blob/main/SERNDIP__local_run.zip
+1. Download  extract the Zip file
+2. Open R studio
+3. From R studio, open ui.R and server.R
+4. Make sure all the libraries are installed.
+5. Follow the video tutorial for data preparation and disease pattern mining.
 
 ## Video tutorial
 ## Publication
