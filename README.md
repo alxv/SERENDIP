@@ -7,8 +7,10 @@ A novel sequential rule mining algorithm is proposed designed to address the cha
 
 - Alexandar vincent paulraj, Lauren walker,Frans coenen, Munir pirmoahmed,Girvan burnside
 
-## Shiny App (R)
+## App
+A web application is developed to aid running the algorithm in local setting.
 https://github.com/alxv/SERENDIP/blob/main/SERNDIP__local_run.zip
+
 1. Download and extract the Zip file
 2. Open R studio
 3. From R studio, open ui.R and server.R (extracted folder)
